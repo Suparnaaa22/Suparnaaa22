@@ -4,8 +4,9 @@
 Hello! I'm Suparna, a passionate software developer dedicated to crafting innovative solutions that enhance user experiences. With a strong foundation in C++, Python, Java and a love for problem-solving, I thrive on tackling challenging projects and continuously learning new technologies. My goal is to create software that not only meets user needs but also brings joy and simplicity to their lives.
 
 ## Current Project: Mood-Based Recommendation System
+
 ### Description
-My latest project, **Mood-Based Recommendation System**, assists users in activities tailored to their current mood. By analyzing user input regarding their emotional state, this application provides personalized recommendations designed to enhance their experience.
+Assists users in activities tailored to their current mood. By analyzing user input regarding their emotional state, this application provides personalized recommendations designed to enhance their experience.
 
 ### Features
 - **Mood Input**: Users can select or describe their current mood.
