@@ -1,7 +1,7 @@
 # Aritrika Rudra 😃🫶
 
 ## About Me
-Hello! I'm Suparna, a passionate software developer dedicated to crafting innovative solutions that enhance user experiences. With a strong foundation in C# and a love for problem-solving, I thrive on tackling challenging projects and continuously learning new technologies. My goal is to create software that not only meets user needs but also brings joy and simplicity to their lives.
+Hello! I'm Suparna, a passionate software developer dedicated to crafting innovative solutions that enhance user experiences. With a strong foundation in C++ and a love for problem-solving, I thrive on tackling challenging projects and continuously learning new technologies. My goal is to create software that not only meets user needs but also brings joy and simplicity to their lives.
 
 ## Current Project: Mood-Based Recommendation System
 ### Description
@@ -15,7 +15,7 @@ My latest project, **Mood-Based Recommendation System**, assists users in discov
 - **API Integration**: Connects to external sources for real-time data on music and movies.
 
 ### Tech Stack
-- **Languages**: C#, SQL,C++
+- **Languages**: C#, SQL, C++
 - **Frameworks**: .NET
 - **APIs**: Spotify API, TMDB API
 
@@ -24,7 +24,7 @@ My latest project, **Mood-Based Recommendation System**, assists users in discov
 - **Interactive Code Quiz Generator**: An application that allows users to create and take coding quizzes, enhancing their learning and testing skills.
 
 ## Skills
-- **Programming Languages**: C#, Python, JavaScript,C++
+- **Programming Languages**: C#, Python, JavaScript, C++
 - **Web Development**: ASP.NET, HTML, CSS
 - **Tools & Technologies**: Git, Docker, SQL Server
 - **Interests**: Open-source contributions, software architecture, machine learning
