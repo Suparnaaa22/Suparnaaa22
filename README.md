@@ -15,7 +15,7 @@ My latest project, **Mood-Based Recommendation System**, assists users in discov
 - **API Integration**: Connects to external sources for real-time data on music and movies.
 
 ### Tech Stack
-- **Languages**: C#, SQL
+- **Languages**: C#, SQL,C++
 - **Frameworks**: .NET
 - **APIs**: Spotify API, TMDB API
 
@@ -24,7 +24,7 @@ My latest project, **Mood-Based Recommendation System**, assists users in discov
 - **Interactive Code Quiz Generator**: An application that allows users to create and take coding quizzes, enhancing their learning and testing skills.
 
 ## Skills
-- **Programming Languages**: C#, Python, JavaScript
+- **Programming Languages**: C#, Python, JavaScript,C++
 - **Web Development**: ASP.NET, HTML, CSS
 - **Tools & Technologies**: Git, Docker, SQL Server
 - **Interests**: Open-source contributions, software architecture, machine learning
