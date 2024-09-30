@@ -1,7 +1,7 @@
 # Aritrika Rudra 😃🫶
 
 ## About Me
-Hello! I'm Aritrika, a passionate software developer dedicated to crafting innovative solutions that enhance user experiences. With a strong foundation in C# and a love for problem-solving, I thrive on tackling challenging projects and continuously learning new technologies. My goal is to create software that not only meets user needs but also brings joy and simplicity to their lives.
+Hello! I'm Suparna, a passionate software developer dedicated to crafting innovative solutions that enhance user experiences. With a strong foundation in C# and a love for problem-solving, I thrive on tackling challenging projects and continuously learning new technologies. My goal is to create software that not only meets user needs but also brings joy and simplicity to their lives.
 
 ## Current Project: Mood-Based Recommendation System
 ### Description
